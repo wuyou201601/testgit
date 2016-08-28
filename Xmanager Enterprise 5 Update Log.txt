@@ -1,0 +1,110 @@
+[05/04/2016 13:21:06] Success	Update started: C:\Program Files (x86)\NetSarang\Xmanager Enterprise 5\LiveUpdate.exe
+[05/04/2016 13:21:06] Notice	Update engine version: 3.7.0.0
+[05/04/2016 13:21:06] Notice	Product: Xmanager Enterprise 5
+[05/04/2016 13:21:06] Success	Language set: Primary = 4, Secondary = 2
+[05/04/2016 13:21:06] Success	Include script: _TU20_Global_Functions.lua
+[05/04/2016 13:21:10] Success	Language set: Primary = 9, Secondary = 1
+[05/04/2016 13:21:10] Notice	Automatic update required.
+[05/04/2016 13:21:10] Notice	The source folder is not writable following rules.
+[05/04/2016 13:21:11] Notice	Dat file updated: 'C:\Users\º«¾üÂ½\AppData\Local\Temp\Liv1.tmp'
+[05/04/2016 13:21:11] Success	Run client data event: Client Script
+[05/04/2016 13:21:11] Notice	Exit update process (Return code: 11)
+[05/13/2016 14:35:42] Success	Update started: C:\Program Files (x86)\NetSarang\Xmanager Enterprise 5\LiveUpdate.exe
+[05/13/2016 14:35:42] Notice	Update engine version: 3.7.0.0
+[05/13/2016 14:35:42] Notice	Product: Xmanager Enterprise 5
+[05/13/2016 14:35:42] Success	Language set: Primary = 4, Secondary = 2
+[05/13/2016 14:35:42] Success	Include script: _TU20_Global_Functions.lua
+[05/13/2016 14:35:50] Success	Language set: Primary = 9, Secondary = 1
+[05/13/2016 14:35:50] Notice	Automatic update required.
+[05/13/2016 14:35:50] Notice	The source folder is not writable following rules.
+[05/13/2016 14:35:51] Notice	Dat file updated: 'C:\Users\º«¾üÂ½\AppData\Local\Temp\Liv1.tmp'
+[05/13/2016 14:35:51] Success	Run client data event: Client Script
+[05/13/2016 14:35:51] Notice	Exit update process (Return code: 11)
+[06/02/2016 14:00:52] Success	Update started: C:\Program Files (x86)\NetSarang\Xmanager Enterprise 5\LiveUpdate.exe
+[06/02/2016 14:00:52] Notice	Update engine version: 3.7.0.0
+[06/02/2016 14:00:52] Notice	Product: Xmanager Enterprise 5
+[06/02/2016 14:00:52] Success	Language set: Primary = 4, Secondary = 2
+[06/02/2016 14:00:52] Success	Include script: _TU20_Global_Functions.lua
+[06/02/2016 14:00:56] Success	Language set: Primary = 9, Secondary = 1
+[06/02/2016 14:00:56] Notice	Automatic update required.
+[06/02/2016 14:00:56] Notice	The source folder is not writable following rules.
+[06/02/2016 14:00:57] Notice	Dat file updated: 'C:\Users\º«¾üÂ½\AppData\Local\Temp\Liv1.tmp'
+[06/02/2016 14:00:57] Success	Run client data event: Client Script
+[06/02/2016 14:00:57] Notice	Exit update process (Return code: 11)
+[06/16/2016 10:45:05] Success	Update started: C:\Program Files (x86)\NetSarang\Xmanager Enterprise 5\LiveUpdate.exe
+[06/16/2016 10:45:05] Notice	Update engine version: 3.7.0.0
+[06/16/2016 10:45:05] Notice	Product: Xmanager Enterprise 5
+[06/16/2016 10:45:05] Success	Language set: Primary = 4, Secondary = 2
+[06/16/2016 10:45:05] Success	Include script: _TU20_Global_Functions.lua
+[06/16/2016 10:45:21] Success	Language set: Primary = 9, Secondary = 1
+[06/16/2016 10:45:21] Notice	Automatic update required.
+[06/16/2016 10:45:21] Notice	The source folder is not writable following rules.
+[06/16/2016 10:45:24] Notice	Dat file updated: 'C:\Users\º«¾üÂ½\AppData\Local\Temp\Liv1.tmp'
+[06/16/2016 10:45:24] Success	Run client data event: Client Script
+[06/16/2016 10:45:24] Notice	Exit update process (Return code: 11)
+[06/29/2016 10:21:58] Success	Update started: C:\Program Files (x86)\NetSarang\Xmanager Enterprise 5\LiveUpdate.exe
+[06/29/2016 10:21:58] Notice	Update engine version: 3.7.0.0
+[06/29/2016 10:21:58] Notice	Product: Xmanager Enterprise 5
+[06/29/2016 10:21:58] Success	Language set: Primary = 4, Secondary = 2
+[06/29/2016 10:21:58] Success	Include script: _TU20_Global_Functions.lua
+[06/29/2016 10:22:00] Success	Language set: Primary = 9, Secondary = 1
+[06/29/2016 10:22:00] Notice	Automatic update required.
+[06/29/2016 10:22:00] Notice	The source folder is not writable following rules.
+[06/29/2016 10:22:01] Notice	Dat file updated: 'C:\Users\º«¾üÂ½\AppData\Local\Temp\Liv1.tmp'
+[06/29/2016 10:22:01] Success	Run client data event: Client Script
+[06/29/2016 10:22:01] Notice	Exit update process (Return code: 11)
+[07/07/2016 10:17:38] Success	Update started: C:\Program Files (x86)\NetSarang\Xmanager Enterprise 5\LiveUpdate.exe
+[07/07/2016 10:17:38] Notice	Update engine version: 3.7.0.0
+[07/07/2016 10:17:38] Notice	Product: Xmanager Enterprise 5
+[07/07/2016 10:17:38] Success	Language set: Primary = 4, Secondary = 2
+[07/07/2016 10:17:38] Success	Include script: _TU20_Global_Functions.lua
+[07/07/2016 10:17:38] Success	Language set: Primary = 9, Secondary = 1
+[07/07/2016 10:17:39] Notice	Automatic update required.
+[07/07/2016 10:17:39] Notice	The source folder is not writable following rules.
+[07/07/2016 10:17:40] Notice	Dat file updated: 'C:\Users\º«¾üÂ½\AppData\Local\Temp\Liv1.tmp'
+[07/07/2016 10:17:40] Success	Run client data event: Client Script
+[07/07/2016 10:17:40] Notice	Exit update process (Return code: 11)
+[07/14/2016 18:53:05] Success	Update started: C:\Program Files (x86)\NetSarang\Xmanager Enterprise 5\LiveUpdate.exe
+[07/14/2016 18:53:05] Notice	Update engine version: 3.7.0.0
+[07/14/2016 18:53:05] Notice	Product: Xmanager Enterprise 5
+[07/14/2016 18:53:05] Success	Language set: Primary = 4, Secondary = 2
+[07/14/2016 18:53:05] Success	Include script: _TU20_Global_Functions.lua
+[07/14/2016 18:53:06] Success	Language set: Primary = 9, Secondary = 1
+[07/14/2016 18:53:06] Notice	Automatic update required.
+[07/14/2016 18:53:06] Notice	The source folder is not writable following rules.
+[07/14/2016 18:53:07] Notice	Dat file updated: 'C:\Users\º«¾üÂ½\AppData\Local\Temp\Liv1.tmp'
+[07/14/2016 18:53:07] Success	Run client data event: Client Script
+[07/14/2016 18:53:07] Notice	Exit update process (Return code: 11)
+[07/22/2016 13:49:45] Success	Update started: C:\Program Files (x86)\NetSarang\Xmanager Enterprise 5\LiveUpdate.exe
+[07/22/2016 13:49:45] Notice	Update engine version: 3.7.0.0
+[07/22/2016 13:49:45] Notice	Product: Xmanager Enterprise 5
+[07/22/2016 13:49:45] Success	Language set: Primary = 4, Secondary = 2
+[07/22/2016 13:49:45] Success	Include script: _TU20_Global_Functions.lua
+[07/22/2016 13:49:56] Success	Language set: Primary = 9, Secondary = 1
+[07/22/2016 13:49:56] Notice	Automatic update required.
+[07/22/2016 13:49:56] Notice	The source folder is not writable following rules.
+[07/22/2016 13:50:04] Notice	Dat file updated: 'C:\Users\º«¾üÂ½\AppData\Local\Temp\Liv1.tmp'
+[07/22/2016 13:50:04] Success	Run client data event: Client Script
+[07/22/2016 13:50:04] Notice	Exit update process (Return code: 11)
+[08/05/2016 15:34:51] Success	Update started: C:\Program Files (x86)\NetSarang\Xmanager Enterprise 5\LiveUpdate.exe
+[08/05/2016 15:34:51] Notice	Update engine version: 3.7.0.0
+[08/05/2016 15:34:51] Notice	Product: Xmanager Enterprise 5
+[08/05/2016 15:34:51] Success	Language set: Primary = 4, Secondary = 2
+[08/05/2016 15:34:51] Success	Include script: _TU20_Global_Functions.lua
+[08/05/2016 15:35:00] Success	Language set: Primary = 9, Secondary = 1
+[08/05/2016 15:35:00] Notice	Automatic update required.
+[08/05/2016 15:35:00] Notice	The source folder is not writable following rules.
+[08/05/2016 15:35:03] Notice	Dat file updated: 'C:\Users\º«¾üÂ½\AppData\Local\Temp\Liv1.tmp'
+[08/05/2016 15:35:03] Success	Run client data event: Client Script
+[08/05/2016 15:35:03] Notice	Exit update process (Return code: 11)
+[08/16/2016 19:19:03] Success	Update started: C:\Program Files (x86)\NetSarang\Xmanager Enterprise 5\LiveUpdate.exe
+[08/16/2016 19:19:03] Notice	Update engine version: 3.7.0.0
+[08/16/2016 19:19:03] Notice	Product: Xmanager Enterprise 5
+[08/16/2016 19:19:03] Success	Language set: Primary = 4, Secondary = 2
+[08/16/2016 19:19:03] Success	Include script: _TU20_Global_Functions.lua
+[08/16/2016 19:19:15] Success	Language set: Primary = 9, Secondary = 1
+[08/16/2016 19:19:15] Notice	Automatic update required.
+[08/16/2016 19:19:15] Notice	The source folder is not writable following rules.
+[08/16/2016 19:19:18] Notice	Dat file updated: 'C:\Users\º«¾üÂ½\AppData\Local\Temp\Liv1.tmp'
+[08/16/2016 19:19:18] Success	Run client data event: Client Script
+[08/16/2016 19:19:18] Notice	Exit update process (Return code: 11)
